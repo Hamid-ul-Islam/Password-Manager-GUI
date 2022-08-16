@@ -10,7 +10,7 @@
 
 Click here [https://hamidthedev.github.io/password-manager-GUI/]
 
-## Screenshots
+## Screenshots:
 
 ![Pass Generated](https://github.com/HamidTheDev/password-manager-GUI/blob/main/screenshot/empy.png)
 ![Empty Fields](https://github.com/HamidTheDev/password-manager-GUI/blob/main/screenshot/no-record.png)
